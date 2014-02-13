@@ -16,6 +16,7 @@
     "url": "https://github.com/stoph/nail/issues"
   },
   "dependencies": {
-    "mailparser": "~0.4.1"
+    "mailparser": "~0.4.1",
+    "simplesmtp": "~0.3.20"
   }
 }
