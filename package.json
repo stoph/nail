@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "mailparser": "~0.4.1",
-    "simplesmtp": "~0.3.20"
+    "simplesmtp": "~0.3.20",
+    "request": "~2.33.0"
   }
 }
